@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 100% <b>Self-Taught</b>
 - Cybersecurity Rookie
 - Currently learning <b>Artificial Intelligence</b> on my own
-- Content creator > [Instagram](https://www.instagram.com/cusanotech/) > [Facebook](https://www.facebook.com/CusanoTech) > [TikTok](https://www.tiktok.com/@cusanotech) > [Twitter](https://twitter.com/ProgrammingCus)
+- Content creator: [Instagram](https://www.instagram.com/cusanotech/)>[Facebook](https://www.facebook.com/CusanoTech)>[TikTok](https://www.tiktok.com/@cusanotech)>[Twitter](https://twitter.com/ProgrammingCus)
 - My [BLOG](https://cusanotech.medium.com/)
 - PLaylist Spotify [CusanoMusic](https://open.spotify.com/playlist/3R0IMB5O0lt4EJEjkOcE1k?si=8e91699e5f944772)
 - I'm <b>crazy</b> and <b>obsessed</b> with playing sports. check my [strava](https://www.strava.com/athletes/cycling_cusano)
