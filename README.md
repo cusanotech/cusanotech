@@ -1,32 +1,16 @@
-<!-- ### Hi there 👋
 
-**cusanotech/cusanotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### <h1 align="center"> ![icons8-chatbot-45](https://user-images.githubusercontent.com/112709808/219958778-41ee4f6a-93fc-4649-a6f8-c28eaf3cc73a.png) <b>HELLO DEVELOPERS</b> ![icons8-chatbot-45](https://user-images.githubusercontent.com/112709808/219958778-41ee4f6a-93fc-4649-a6f8-c28eaf3cc73a.png)
-
+### <h1 align="center"> <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="35" height="35"> <b>HELLO DEVELOPERS</b> <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="35" height="35">
 ---
   
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=2D9EE3&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+CusanoTech+GitHub;I+am+self-taught,+content+creator+and+Newbie;And+above+all...;High+level+Athlete..🏃🏋️"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=CB6CE6&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+CusanoTech+GitHub"></a>
 </p>
-
 
 <br>
 
 	
-## **ABOUT ME** ![icons8-sign-language-i-40](https://user-images.githubusercontent.com/112709808/219958252-5c594ca0-6a92-43ce-8e31-b2f3c8ca458d.png)
+## <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="30" height="30"> **ABOUT ME** 
+
 
 <img align="right" src="https://github.com/cusanotech/cusanotech/blob/main/giphy.gif" >
 
@@ -36,16 +20,16 @@ Here are some ideas to get you started:
 - Cybersecurity Rookie
 - Currently learning <b>Artificial Intelligence</b> on my own
 - Content creator: [Instagram](https://www.instagram.com/cusanotech/)>[Facebook](https://www.facebook.com/CusanoTech)>[TikTok](https://www.tiktok.com/@cusanotech)>[Twitter](https://twitter.com/ProgrammingCus)
-- My [BLOG](https://cusanotech.medium.com/)
-- PLaylist Spotify [CusanoMusic](https://open.spotify.com/playlist/3R0IMB5O0lt4EJEjkOcE1k?si=8e91699e5f944772)
-- I'm <b>crazy</b> and <b>obsessed</b> with playing sports. check my [strava](https://www.strava.com/athletes/cycling_cusano)
+- My [BLOG:book:](https://cusanotech.medium.com/)
+- PLaylist Spotify [CusanoMusic:musical_note:](https://open.spotify.com/playlist/3R0IMB5O0lt4EJEjkOcE1k?si=8e91699e5f944772)
+- I'm <b>crazy</b> and <b>obsessed</b> with playing sports. check my [strava:medal_military:](https://www.strava.com/athletes/cycling_cusano)
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> SOFTWARE SKILLS</b>
 <br>
+
+<br>	
+	
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> SOFTWARE SKILLS</b>
+
 
 <p align="center">
 
@@ -90,10 +74,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Cusanotech Github Stats" src="https://github-readme-stats.vercel.app/api?username=cusanotech&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cusanotech&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="CusanoTech" height="230px"/>
+[![CusanoTech GitHub stats](https://github-readme-stats.vercel.app/api?username=cusanotech&show_icons=true&bg_color=2A2E34&title_color=CB6CE6&icon_color=CB6CE6&text_color=A6A6A6)](https://github.com/cusanotech/github-readme-stats)
+	
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -113,7 +95,7 @@ Here are some ideas to get you started:
   
 <div align='center'>
 
-## <b> LET'S CONNECT..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+## <b> LET'S CONNECT..! :trollface:</b><img src="./assets/mdImages/handshake.gif" width ="80">
 
 <a href="https://linkedin.com/in/cusanotech" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  CusanoTech-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
