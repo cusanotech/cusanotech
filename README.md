@@ -50,8 +50,8 @@
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
     <a href="#"><img alt="GNU bash" src="https://img.shields.io/badge/GNU%20Bash-000000.svg?style=plastic&logo=GNU-Bash&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
+    <a href="#"><img alt="T kinder" src="https://img.shields.io/badge/tkinder-%259660.svg?&style=plastic&logo=tkinder&logoColor=white" /></a>
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/canva-%2348B9C7.svg?&style=plastic&logo=canva&logoColor=white" /></a>
-
 <br>
 
 - **IDEs & Operating Systems**:
@@ -72,49 +72,46 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GITHUB STATS </b>
 <br>
 
-<div align="center">
+
 
 [![CusanoTech GitHub stats](https://github-readme-stats.vercel.app/api?username=cusanotech&show_icons=true&bg_color=2A2E34&title_color=CB6CE6&icon_color=CB6CE6&text_color=A6A6A6)](https://github.com/cusanotech/github-readme-stats)
-	
-<br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 
-</div>
+> ##### <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br>
-<br>
 
-## 🎓Credentials 
 
-### > Aqui veras todas mis [credenciales](https://github.com/cusanotech/cusanotech/tree/main/Images-credentials) en formato PDF
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+## 🎓CREDENTIALS
+
+<b> Here you will see all my [credentials](https://github.com/cusanotech/cusanotech/tree/main/Images-credentials) in PDF format. <b>
+
+<br>
 
   
-  
+ 
 <div align='center'>
 
-## <b> LET'S CONNECT..! :trollface:</b><img src="./assets/mdImages/handshake.gif" width ="80">
+## <b> <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="30" height="30">  LET'S CONNECT..! <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="30" height="30"> 
 
 <a href="https://linkedin.com/in/cusanotech" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  CusanoTech-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  CusanoTech-0077B5.svg?color=2A2E34&style=for-the-badge&logo=linkedin&logoColor=blue" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 
 <a href="programmingcus@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/  programmingcus@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/  programmingcus@gmail.com-%23EA4335.svg?color=2A2E34&style=for-the-badge&logo=gmail&logoColor=red" t=mail style="margin-bottom: 5px;" />
 </a>
   
 <a href="https://t.me/CusanoTechh" target="_blank">
-<img src="https://img.shields.io/badge/telegram:  CusanoTech-%2300acee.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/telegram:  CusanoTech-%2300acee.svg?color=2A2E34&style=for-the-badge&logo=telegram&logoColor=sky-blue" alt="telegram" style="margin-bottom: 5px;" />
 </a>
 	
 </div>
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
