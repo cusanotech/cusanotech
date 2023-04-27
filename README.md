@@ -102,7 +102,7 @@
 </a>
 
 
-<a href="programmingcus@gmail.com" target="_blank">
+<a href="https://linktr.ee/cusanotech" target="_blank">
 <img src="https://img.shields.io/badge/  programmingcus@gmail.com-%23EA4335.svg?color=2A2E34&style=for-the-badge&logo=gmail&logoColor=red" t=mail style="margin-bottom: 5px;" />
 </a>
   
