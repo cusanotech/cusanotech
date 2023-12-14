@@ -20,7 +20,7 @@
 - Full-stack Developer
 - Cybersecurity Rookie
 - Learning Data Science 
-- Content creator: [Instagram](https://www.instagram.com/cusanotech/)>[TikTok](https://www.tiktok.com/@cusanotech)>[News AI Twitter](https://twitter.com/ProgrammingCus)>[News AI Telegram](https://t.me/CusanoTechh)
+- Content creator: [Instagram](https://www.instagram.com/cusanotech/)>[TikTok](https://www.tiktok.com/@cusanotech)
 - My [BLOG:book:](https://cusanotech.medium.com/)
 - I'm <b>crazy</b> and <b>obsessed</b> with playing sports. check my [strava:medal_military:](https://www.strava.com/athletes/cycling_cusano)
 
