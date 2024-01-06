@@ -1,9 +1,9 @@
 
-### <h1 align="center"> <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="35" height="35"> <b>HELLO DEVELOPERS</b> <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="35" height="35">
+### <h1 align="center"> <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="35" height="35"> <b>WELCOME TO CUSANOTECH</b> <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="35" height="35">
 ---
   
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=CB6CE6&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+CusanoTech+GitHub"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=CB6CE6&size=25&center=true&vCenter=true&width=600&height=100&lines=Growth Partner+Pasionate Programmer+Ultrarunner+Argentine"></a>
 </p>
 
 <br>
