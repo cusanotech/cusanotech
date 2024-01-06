@@ -16,7 +16,7 @@
 
 
 - Growth Partner
-- My web [www.cusanotech.com](https://www.cusanotech.com
+- My web [cusanotech.com](https://www.cusanotech.com)
 - My [Likedin](https://linkedin.com/cusanotech)
 - My [Blog Medium](https://cusanotech.medium.com/) 
 - My [Instagram](https://www.instagram.com/cusanotech/)
