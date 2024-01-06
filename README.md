@@ -16,7 +16,7 @@
 
 
 - Growth Partner 
-- Content creator: [Instagram](https://www.instagram.com/cusanotech/)>[TikTok](https://www.tiktok.com/@cusanotech)
+- Content creator: [Instagram](https://www.instagram.com/cusanotech/)
 - My [Blog Medium](https://cusanotech.medium.com/) 
 - My web [www.cusanotech.com](https://www.cusanotech.com)
 - Runner, Ultrarunner & Ciclist. check my [Activity on Strava](https://www.strava.com/athletes/cycling_cusano)
