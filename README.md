@@ -17,8 +17,9 @@
 
 - Growth Partner
 - My web [cusanotech.com](https://www.cusanotech.com)
-- My [Likedin](https://linkedin.com/cusanotech)
-- My [Blog Medium](https://cusanotech.medium.com/) 
+- My [Linkedin](https://linkedin.com/cusanotech)
+- My [Blog Medium](https://cusanotech.medium.com/)
+- My Email: cusanotech@cusanotech.com
 - My [Instagram](https://www.instagram.com/cusanotech/)
 - Runner, Ultrarunner & Ciclist. check my [Activity on Strava](https://www.strava.com/athletes/cycling_cusano)
 
