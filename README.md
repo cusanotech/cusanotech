@@ -15,11 +15,7 @@
 <img align="right" src="https://github.com/cusanotech/cusanotech/blob/main/giphy.gif" >
 
 
-- A <b>passionate</b> Programmer
-- 100% <b>Self-Taught</b>
-- Full-stack Developer
-- Cybersecurity Rookie
-- Learning Data Science 
+- Growth Partner 
 - Content creator: [Instagram](https://www.instagram.com/cusanotech/)>[TikTok](https://www.tiktok.com/@cusanotech)
 - My [BLOG:book:](https://cusanotech.medium.com/)
 - I'm <b>crazy</b> and <b>obsessed</b> with playing sports. check my [strava:medal_military:](https://www.strava.com/athletes/cycling_cusano)
