@@ -15,10 +15,11 @@
 <img align="right" src="https://github.com/cusanotech/cusanotech/blob/main/giphy.gif" >
 
 
-- Growth Partner 
-- Content creator: [Instagram](https://www.instagram.com/cusanotech/)
+- Growth Partner
+- My web [www.cusanotech.com](https://www.cusanotech.com
+- My [Likedin](https://linkedin.com/cusanotech)
 - My [Blog Medium](https://cusanotech.medium.com/) 
-- My web [www.cusanotech.com](https://www.cusanotech.com)
+- My [Instagram](https://www.instagram.com/cusanotech/)
 - Runner, Ultrarunner & Ciclist. check my [Activity on Strava](https://www.strava.com/athletes/cycling_cusano)
 
 <br>
