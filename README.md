@@ -3,7 +3,7 @@
 ---
   
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=CB6CE6&size=25&center=true&vCenter=true&width=600&height=100&lines=Growth+Partner+/+Programmer+/+Ultrarunner"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=CB6CE6&size=25&center=true&vCenter=true&width=600&height=100&lines=Emtrepreneur+/+Founder+/+Ultrarunner"></a>
 </p>
 
 <br>
@@ -15,7 +15,7 @@
 <img align="right" src="https://github.com/cusanotech/cusanotech/blob/main/giphy.gif" >
 
 
-- Growth Partner
+- Founder of Cusanotech™
 - My web [cusanotech.com](https://www.cusanotech.com)
 - My [Linkedin](https://linkedin.com/cusanotech)
 - My [Blog Medium](https://cusanotech.medium.com/)
