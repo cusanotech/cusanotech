@@ -1,5 +1,5 @@
 
-### <h1 align="center"> <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="35" height="35"> <b>WELCOME TO CUSANOTECH</b> <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="35" height="35">
+### <h1 align="center">  <b>WELCOME TO CUSANOTECH</b> 
 ---
   
 <p align="center">
