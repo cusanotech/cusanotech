@@ -94,7 +94,7 @@
  
 <div align='center'>
 
-## <b> <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="30" height="30">  LET'S CONNECT..! <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="30" height="30"> 
+## <b> LET'S CONNECT..! 
 
 <a href="https://linkedin.com/in/cusanotech" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  CusanoTech-0077B5.svg?color=2A2E34&style=for-the-badge&logo=linkedin&logoColor=blue" alt=linkedin style="margin-bottom: 5px;"/>
