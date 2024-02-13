@@ -9,7 +9,7 @@
 <br>
 
 	
-## <img src="https://github.com/cusanotech/cusanotech/blob/main/Logotipo-Trasparente.png" width="30" height="30"> **ABOUT ME** 
+##  **ABOUT ME** 
 
 
 <img align="right" src="https://github.com/cusanotech/cusanotech/blob/main/giphy.gif" >
