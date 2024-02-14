@@ -32,7 +32,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Languages Programming**:
    
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
@@ -42,18 +42,18 @@
     
 <br>
 
-- **Softwares and Tools**:
+- **Softwares and Tools IA**:
 
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=Git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=GitHub&logoColor=white"></a>
-    <a href="#"><img alt="Google Ads" src="https://img.shields.io/badge/google%Ads-ffffff.svg?style=plastic&logo=google-Ads&logoColor=" /></a>
     <a href="#"><img alt="GNU bash" src="https://img.shields.io/badge/GNU%20Bash-000000.svg?style=plastic&logo=GNU-Bash&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=Django&logoColor=white" /></a>
     <a href="#"><img alt="Tkinder" src="https://img.shields.io/badge/tkinder-%259660.svg?&style=plastic&logo=Tkinder&logoColor=white" /></a>
-    <a href="#"><img alt="Canva" src="https://img.shields.io/badge/canva-%2348B9C7.svg?&style=plastic&logo=Canva&logoColor=white" /></a>
     <a href="#"><img alt="Make" src="https://img.shields.io/badge/make-F108FB.svg?style=plastic&logo=Make&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/notion-000000.svg?style=plastic&logo=Notion&logoColor=white"></a>
-    
+    <a href="#"><img alt="Canva" src="https://img.shields.io/badge/canva-%2348B9C7.svg?&style=plastic&logo=Canva&logoColor=white" /></a>
+    <a href="#"><img alt="Google Ads" src="https://img.shields.io/badge/google%Ads-ffffff.svg?style=plastic&logo=google-Ads&logoColor=" /></a>
+    <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-ffffff.svg?style=plastic&logo=chatgpt&logoColor=" /></a>
 <br>
 
 - **IDEs & Operating Systems**:
