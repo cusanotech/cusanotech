@@ -52,7 +52,8 @@
     <a href="#"><img alt="T kinder" src="https://img.shields.io/badge/tkinder-%259660.svg?&style=plastic&logo=tkinder&logoColor=white" /></a>
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/canva-%2348B9C7.svg?&style=plastic&logo=canva&logoColor=white" /></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/make-F108FB.svg?style=plastic&logo=make&logoColor=white"></a>
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/landbot-F108FB-0078D6?style=plastic&logo=landbot&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/notion-F108FB.svg?style=plastic&logo=notion&logoColor="></a>
+    
 <br>
 
 - **IDEs & Operating Systems**:
