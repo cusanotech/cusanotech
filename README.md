@@ -46,7 +46,7 @@
 
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google%ads.svg?style=plastic&logo=google-ads&logoColor=" /></a>
+    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google%ads-000000.svg?style=plastic&logo=google-ads&logoColor=" /></a>
     <a href="#"><img alt="GNU bash" src="https://img.shields.io/badge/GNU%20Bash-000000.svg?style=plastic&logo=GNU-Bash&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
     <a href="#"><img alt="T kinder" src="https://img.shields.io/badge/tkinder-%259660.svg?&style=plastic&logo=tkinder&logoColor=white" /></a>
